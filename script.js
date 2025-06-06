@@ -1,5 +1,5 @@
 // 🔑 Chave de API da NASA (necessária para acessar os dados)
-const apiKey = "CXVyVdeEroLIJCd9cd7WTMTwemSIfU3iOYld73pq";
+const apiKey = "SUA_CHAVE_API";
 
 // 🎯 Seleciona o campo de entrada de data
 const dateInput = document.getElementById("datePicker");
